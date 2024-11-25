@@ -1,1 +1,3 @@
 # LMS
+# tech used
+- axios
