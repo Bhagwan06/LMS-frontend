@@ -3,3 +3,4 @@
 - axios
 - react-toastify
 - react bootstrap
+- react-redux
