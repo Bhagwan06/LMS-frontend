@@ -4,3 +4,4 @@
 - react-toastify
 - react bootstrap
 - react-redux
+- vite
